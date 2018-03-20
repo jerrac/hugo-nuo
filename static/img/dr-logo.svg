@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="683"
-   height="683"
-   viewBox="0 0 180.71041 180.71042"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
    version="1.1"
    id="svg3848"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="safari-pinned-tab.svg">
+   sodipodi:docname="dr-logo.svg">
   <defs
      id="defs3842" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="173.12552"
+     inkscape:cx="224.62552"
      inkscape:cy="214.24931"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -54,17 +54,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-116.28957)">
+     transform="translate(0,-161.53332)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:Cagliostro;-inkscape-font-specification:Cagliostro;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="36.156372"
-       y="218.73518"
+       x="13.534496"
+       y="241.35706"
        id="text3852"><tspan
          sodipodi:role="line"
          id="tspan3850"
-         x="36.156372"
-         y="218.73518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:Cagliostro;-inkscape-font-specification:'Cagliostro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">[DR]</tspan></text>
+         x="13.534496"
+         y="241.35706"
+         style="font-size:50.79999924px;stroke-width:0.26458332px">[DR]</tspan></text>
   </g>
 </svg>
