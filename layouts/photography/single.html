@@ -3,6 +3,7 @@
 <section class="main post-detail">
     <main class="container">
         <h1 class="text-primary">{{ .Title }}</h1>
+        {{ .Params.text | markdownify }}
         <div class="gallery" itemscope itemtype="https://schema.org/ImageGallery">
             {{ .Content }}
         </div>

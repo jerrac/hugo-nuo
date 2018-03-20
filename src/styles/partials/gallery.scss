@@ -1,0 +1,19 @@
+.gallery figure {
+  float: left;
+  width: 256px;
+}
+.gallery img {
+  box-shadow: 4px 4px 4px $grey-darker;
+}
+.gallery figcaption {
+  border: 1px dashed $grey-darker;
+  box-shadow: 4px 4px 4px $grey-darker;
+  padding: 2px;
+}
+.gallery {
+  overflow: auto;
+}
+.gallery a {
+  opacity: 1;
+  text-decoration: none;
+}
