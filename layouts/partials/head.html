@@ -94,3 +94,10 @@
 <link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.8/alt/video-js-cdn.min.css" />
 {{ end }}
 <link rel="stylesheet" href="{{ "/css/bundle.css" | relURL }}" />
+
+{{ if eq .Type "photo" }}
+<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/photoswipe.css"/>
+<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/default-skin/default-skin.css"/>
+<script type="application/javascript" src="{{ .Site.BaseURL }}js/photoswipe.min.js"></script>
+<script type="application/javascript" src="{{ .Site.BaseURL }}js/photoswipe-ui-default.min.js"></script>
+{{ end }}
