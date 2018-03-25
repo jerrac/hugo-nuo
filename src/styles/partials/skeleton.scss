@@ -6,7 +6,7 @@ html {
 
 body {
   color: $text;
-  background: $background $background-image;
+  background: $background $background-image fixed;
   background-size: cover;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
