@@ -7,15 +7,10 @@
 <div class="main">
 <div class="home-grid-wrapper">
     <section class="home-block photography-block">
-        <h3><a href="/photography/">Latest Photos</a></h3>
-        {{ range first 1 (where .Data.Pages "Section" "photography") }}
-        <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
-        <div>
-            <a href="{{.Permalink}}">
-                <img src="{{.Params.Cover}}" alt="{{.Title}} cover image." width="150px" height="150px">
-            </a>
-        </div>
-        {{ end }}
+        <h3><a href="/photography">Photography</a></h3>
+      <p>
+        <a href="https://pics.davidreagan.net/Nature/Rocks/i-NQ3vX7j/A"><img src="https://photos.smugmug.com/Nature/Rocks/i-NQ3vX7j/0/64b5740f/Th/20180526_115858_1984%20x%201488_AuroraHDR2019-edit-Th.jpg" alt=""></a>
+      </p>
     </section>
 
     <section class="home-block journal-block">
